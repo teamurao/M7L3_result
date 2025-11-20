@@ -1,3 +1,5 @@
+# комментарий во второй ветке
+
 import random
 import string
 
